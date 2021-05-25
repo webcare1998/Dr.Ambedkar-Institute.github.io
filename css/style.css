@@ -1,0 +1,139 @@
+/********************Dr. Ambedkar Institute************************/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+ul {
+    list-style: none;
+}
+
+.header {
+    background: #13438B;
+}
+
+
+.bg-white {
+    background: #fff;
+    width: 100%;
+    max-width: 100%;
+}
+
+.bg-warning {
+    background: #ff6600 !important;
+}
+
+.fist-text {
+    color: #fff;
+}
+
+.fa {
+    font-size: 20px !important;
+    color: #fff;
+    margin-right: 15px;
+}
+
+.logo {
+    width: 300px;
+    max-width: 100%;
+}
+
+.navbar-collapse ul li {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.b-t-1 {
+    border-top: 1px solid #f1f1f1;
+}
+
+.nav-link {
+    color: #000 !important;
+}
+
+.nav-link:hover {
+    color: red !important;
+}
+
+.bg {
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #164A41, #4D774E);
+    /*background-image: linear-gradient(to bottom, #63D6AF, #6B51DD);*/
+}
+
+.section1 a {
+    color: #fff;
+    background: #ff6600;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.navbar {
+    padding: 0 !important;
+}
+
+.dropdown-item:hover {
+    background: none !important;
+    color: red;
+}
+
+.student-img {
+    max-width: 100% !important;
+    margin-top: 20%;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-black {
+    color: #000;
+}
+
+.btn-2 {
+    color: #fff;
+    background: #FF6600;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.btn-1 {
+    color: #fff;
+    background: #FF6600;
+    font-size: 20px;
+    padding: 5px 40px
+}
+
+.breadcrumb li a:hover {
+    color: #000 !important;
+}
+
+.breadcrumb {
+    background: none !important;
+}
+
+.bottom-line {
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.border1 {
+    border-bottom: 1px solid #fff !important;
+}
+
+.mt-4-5 {
+    margin-top: 33px;
+}
+
+.img-gallery {
+    transition: 0.5s;
+}
+
+.img-gallery:hover {
+    transform: scale(1.1);
+}
+
